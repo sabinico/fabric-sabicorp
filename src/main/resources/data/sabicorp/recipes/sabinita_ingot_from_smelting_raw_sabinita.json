@@ -1,0 +1,10 @@
+{
+  "type": "minecraft:smelting",
+  "group": "sabinita_ingot",
+  "ingredient": {
+    "item": "sabicorp:raw_sabinita"
+  },
+  "result": "sabicorp:sabinita_ingot",
+  "experience": 1.0,
+  "cookingtime": 200
+}

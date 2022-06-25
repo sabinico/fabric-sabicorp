@@ -1,0 +1,10 @@
+{
+  "itemGroup.sabicorp.sabicorp":  "Sabicorp",
+
+  "item.sabicorp.sabinita_ingot": "Sabinita Ingot",
+  "item.sabicorp.sabinita_nugget": "Sabinita Nugget",
+  "item.sabicorp.raw_sabinita": "Raw Sabinita",
+
+  "block.sabicorp.sabinita_block": "Sabinita Block",
+  "block.sabicorp.sabinita_ore": "Sabinita Ore"
+}

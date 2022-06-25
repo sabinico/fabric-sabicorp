@@ -1,6 +1,6 @@
-package net.fabricmc.example.mixin;
+package com.sabinico.sabicorp.mixin;
 
-import net.fabricmc.example.ExampleMod;
+import com.sabinico.sabicorp.SabicorpMod;
 import net.minecraft.client.gui.screen.TitleScreen;
 import org.spongepowered.asm.mixin.Mixin;
 import org.spongepowered.asm.mixin.injection.At;
@@ -11,6 +11,6 @@ import org.spongepowered.asm.mixin.injection.callback.CallbackInfo;
 public class ExampleMixin {
 	@Inject(at = @At("HEAD"), method = "init()V")
 	private void init(CallbackInfo info) {
-		ExampleMod.LOGGER.info("This line is printed by an example mod mixin!");
+		SabicorpMod.LOGGER.info("This line is printed by sabicorp mod mixin!");
 	}
 }

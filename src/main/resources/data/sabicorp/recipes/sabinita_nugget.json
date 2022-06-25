@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "sabicorp:sabinita_ingot"
+    }
+  ],
+  "result": {
+    "item": "sabicorp:sabinita_nugget",
+    "count": 9
+  }
+}

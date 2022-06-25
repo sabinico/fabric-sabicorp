@@ -1,29 +1,29 @@
 {
   "schemaVersion": 1,
-  "id": "modid",
+  "id": "sabicorp",
   "version": "${version}",
 
-  "name": "Example Mod",
-  "description": "This is an example description! Tell everyone what your mod is about!",
+  "name": "Sabicorp Mod",
+  "description": "This is my first Fabric Mod! Is just a bunch of test made by Sabinico (:",
   "authors": [
-    "Me!"
+    "Sabinico"
   ],
   "contact": {
-    "homepage": "https://fabricmc.net/",
-    "sources": "https://github.com/FabricMC/fabric-example-mod"
+    "homepage": "https://sabinico.dev/",
+    "sources": "https://github.com/sabinico/fabric-sabicorp"
   },
 
-  "license": "CC0-1.0",
+  "license": "MIT",
   "icon": "assets/modid/icon.png",
 
   "environment": "*",
   "entrypoints": {
     "main": [
-      "net.fabricmc.example.ExampleMod"
+      "com.sabinico.sabicorp.SabicorpMod"
     ]
   },
   "mixins": [
-    "modid.mixins.json"
+    "sabicorp.mixins.json"
   ],
 
   "depends": {

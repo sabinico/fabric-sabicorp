@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "sabinita_ingot",
+  "pattern": [
+    "###",
+    "###",
+    "###"
+  ],
+  "key": {
+    "#": {
+      "item": "sabicorp:sabinita_nugget"
+    }
+  },
+  "result": {
+    "item": "sabicorp:sabinita_ingot"
+  }
+}

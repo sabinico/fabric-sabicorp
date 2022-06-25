@@ -1,0 +1,10 @@
+{
+  "itemGroup.sabicorp.sabicorp":  "Sabicorp",
+
+  "item.sabicorp.sabinita_ingot": "Lingote de Sabinita",
+  "item.sabicorp.sabinita_nugget": "Pepita de Sabinita",
+  "item.sabicorp.raw_sabinita": "Sabinita en bruto",
+
+  "block.sabicorp.sabinita_block": "Bloque de Sabinita",
+  "block.sabicorp.sabinita_ore": "Mineral de Sabinita"
+}
